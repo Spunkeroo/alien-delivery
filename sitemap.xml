@@ -2,9 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://aliens.delivery/</loc>
-<lastmod>2026-02-22</lastmod>
+<lastmod>2026-02-27</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
+</url>
+<url>
+<loc>https://aliens.delivery/blog/best-food-delivery-apps-2026.html</loc>
+<lastmod>2026-02-27</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://aliens.delivery/blog/how-to-save-on-food-delivery-2026.html</loc>
+<lastmod>2026-02-27</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
 <loc>https://aliens.delivery/privacy.html</loc>
